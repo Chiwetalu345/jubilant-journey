@@ -253,5 +253,4 @@ li:nth-of-type(2) {
 .cancel-link:hover,
 .cancel-link:focus {
     text-decoration: underline;
-    background-color: hsl(225, 100%, 98%);
 }
